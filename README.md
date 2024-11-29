@@ -17,7 +17,6 @@ I am a Python backend developer with experience in building scalable, high-perfo
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) Git & Version Control
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) PostgreSQL
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) MySQL
-- ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white) JWT (Authentication)
 - ![Tests](https://img.shields.io/badge/pytest-000000?style=flat&logo=pytest&logoColor=white) Testing (pytest, unittest)
 
 ## Projects
